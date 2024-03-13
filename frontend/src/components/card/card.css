@@ -1,0 +1,14 @@
+.card {
+    border-radius: 5px;
+    border: 3px solid rgb(172, 171, 171);
+    overflow: hidden;
+    text-align: center;
+    background-image: linear-gradient(darkgrey, rgb(174, 163, 130), white);
+}
+
+.card-title {
+    color: black;
+
+}
+
+/* .card {} */

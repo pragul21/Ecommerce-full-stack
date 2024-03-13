@@ -1,0 +1,35 @@
+.login-label {
+    text-align: left;
+    margin-left: 25%;
+    margin-top: 13px;
+    font-weight: bold;
+    width: 20%;
+}
+
+.login-input {
+    width: 50%;
+    height: 36px;
+    margin-left: 25%;
+    border-radius: 6px;
+    border: 3px solid rgb(181, 178, 178)
+}
+
+.login-button {
+    border-radius: 6px;
+    width: 50%;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-bottom: 80px;
+    background-color: slategray;
+    color: aliceblue;
+}
+
+.login-button:focus {
+    background-color: rgb(190, 149, 46);
+}
+
+.login-para {
+    margin-bottom: 220px;
+    margin-top: -40px;
+}

@@ -1,0 +1,36 @@
+.label-ship {
+    text-align: left;
+    font-weight: bold;
+    margin-left: 26%;
+    padding-top: 10px;
+    width: 20%
+}
+
+.input-ship {
+    border-radius: 6px;
+    width: 50%;
+    height: 36px;
+    padding: 0 20px;
+    margin-left: 25%;
+    border: 3px solid rgb(181, 178, 178);
+}
+
+.ship-btn {
+    border-radius: 6px;
+    width: 50%;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-bottom: 150px;
+    background-color: slategray;
+    color: aliceblue;
+}
+
+.ship-btn:focus {
+    background-color: rgb(190, 149, 46);
+}
+
+.link-ship {
+    height: 60px;
+    margin-bottom: 250px;
+}

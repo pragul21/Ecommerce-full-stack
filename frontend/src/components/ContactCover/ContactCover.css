@@ -1,0 +1,44 @@
+.label-contact {
+    text-align: left;
+    font-weight: bold;
+    margin-left: 84px;
+    padding-top: 10px;
+    width: 20%
+}
+
+.input-contact {
+    border-radius: 6px;
+    width: 70%;
+    height: 36px;
+    padding: 0 20px;
+    margin-left: 80px;
+    border: 3px solid rgb(181, 178, 178);
+}
+
+.textarea-contact {
+    border-radius: 6px;
+    width: 70%;
+    padding: 0 20px;
+    margin-left: 80px;
+    border: 3px solid rgb(181, 178, 178);
+}
+
+.contact-btn {
+    border-radius: 6px;
+    width: 70%;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-bottom: 80px;
+    background-color: slategray;
+    color: aliceblue;
+}
+
+.contact-btn:focus {
+    background-color: rgb(190, 149, 46);
+}
+
+.contact-logo {
+    margin-top: 25px;
+
+}

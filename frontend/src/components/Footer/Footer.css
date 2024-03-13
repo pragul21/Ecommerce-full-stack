@@ -1,0 +1,29 @@
+/* .footer-bottom {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+} */
+
+.bg {
+    background-color: black;
+}
+
+h3 {
+    color: rgb(188, 188, 172);
+    margin-top: 10px;
+}
+
+.links {
+    color: rgb(188, 188, 172);
+    text-decoration: none;
+}
+
+hr {
+    color: white;
+
+}
+
+h4 {
+    color: rgb(188, 188, 172);
+}

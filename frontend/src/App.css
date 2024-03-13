@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-image: linear-gradient(rgb(244, 177, 54), white, rgb(6, 174, 6));
+  font-family: 'Poppins', sans-serif;
+}
